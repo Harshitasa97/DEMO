@@ -166,3 +166,6 @@ rollback
 drop table #tmp_orders
 
 select * from t_stored_item where wh_id = 'JAX' nad mmmm
+select  * from t_stored_item where wh_id = 'JAX' 
+ * from t_stored_item where wh_id = 'JAX' 
+  * from t_stored_item where wh_id = 'JAX' 
