@@ -164,3 +164,5 @@ rollback
 --commit
 
 drop table #tmp_orders
+
+select * from t_stored_item where wh_id = 'JAX' nad mmmm
